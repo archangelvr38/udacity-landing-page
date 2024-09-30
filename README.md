@@ -1,0 +1,3 @@
+- Hey guys! This is one of three projects that I completed from my Udacity course.
+- I added 2 sections in the HTML and made the sections in the navigation bar stay highlighted to let viewers know where they were located
+- Even though this is a completed project, I'm open to ideas to implement in the future to make my page even more responsive!
